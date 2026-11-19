@@ -1,4 +1,6 @@
-# Hi, I'm Jarosław Baran 👋
+<h1 align="left">Hi, I'm Jarosław Baran 👋</h1>
+
+<p align="left"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&width=600&lines=Data+Analyst;Python+%7C+SQL+%7C+Excel+%26+Power+Query;Turning+data+into+decisions" alt="Typing SVG"/></p>
 
 ### Data Analyst | Python · SQL · Excel & Power Query · Data Visualization
 
@@ -26,6 +28,18 @@ I turn raw data into clear, actionable insights. I collect data from APIs and we
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=JaroslawBaran89&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JaroslawBaran89&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaroslawBaran89&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" height="165"/>
+</p>
+
+---
+
 ## 📂 Featured Projects
 
 | Project | Description | Tools |
@@ -35,6 +49,8 @@ I turn raw data into clear, actionable insights. I collect data from APIs and we
 
 ---
 
-## 📫 Contact
+## 🤝 Connect with me
 
-[![GitHub](https://img.shields.io/badge/GitHub-JaroslawBaran89-181717?style=flat&logo=github)](https://github.com/JaroslawBaran89)
+<p align="left">
+  <a href="https://github.com/JaroslawBaran89"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
